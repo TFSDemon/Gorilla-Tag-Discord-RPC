@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+using UnityEngine;
+using UnityEngine.InputSystem;
 
 namespace GorillaDiscordRPC
 {
@@ -9,7 +10,7 @@ namespace GorillaDiscordRPC
 
         void Update()
         {
-            if (UnityEngine.Input.GetKeyDown(KeyCode.H))
+            if (Keyboard.current != null && Keyboard.current.hKey.wasPressedThisFrame)
             {
                 show = !show;
                 Debug.Log("[GUI] Show = " + show);
