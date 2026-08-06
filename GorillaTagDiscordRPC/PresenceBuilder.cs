@@ -13,7 +13,7 @@ namespace GorillaDiscordRPC
 
             var activity = new Activity
             {
-                Details = $"{d.Mode} ({d.TagState})",
+                
                 State = $"{roomDisplay} ({d.Players} players)",
                 Timestamps = new ActivityTimestamps
                 {
