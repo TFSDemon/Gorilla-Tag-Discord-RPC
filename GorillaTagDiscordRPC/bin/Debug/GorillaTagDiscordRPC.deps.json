@@ -1,0 +1,40 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.1/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.1": {},
+    ".NETStandard,Version=v2.1/": {
+      "GorillaTagDiscordRPC/1.0.0": {
+        "dependencies": {
+          "Photon3Unity3D": "4.1.8.15"
+        },
+        "runtime": {
+          "GorillaTagDiscordRPC.dll": {}
+        }
+      },
+      "Photon3Unity3D/4.1.8.15": {
+        "runtime": {
+          "Photon3Unity3D.dll": {
+            "assemblyVersion": "4.1.8.15",
+            "fileVersion": "4.1.8.15"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GorillaTagDiscordRPC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Photon3Unity3D/4.1.8.15": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

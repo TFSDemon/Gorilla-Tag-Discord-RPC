@@ -1,0 +1,12 @@
+C:\Users\emily\Downloads\GorillaTagDiscordRPC-status\GorillaTagDiscordRPC\bin\Debug\GorillaTagDiscordRPC.deps.json
+C:\Users\emily\Downloads\GorillaTagDiscordRPC-status\GorillaTagDiscordRPC\bin\Debug\GorillaTagDiscordRPC.dll
+C:\Users\emily\Downloads\GorillaTagDiscordRPC-status\GorillaTagDiscordRPC\bin\Debug\GorillaTagDiscordRPC.pdb
+C:\Users\emily\Downloads\GorillaTagDiscordRPC-status\GorillaTagDiscordRPC\bin\Debug\Photon3Unity3D.dll
+C:\Users\emily\Downloads\GorillaTagDiscordRPC-status\GorillaTagDiscordRPC\obj\Debug\GorillaTagDiscordRPC.csproj.AssemblyReference.cache
+C:\Users\emily\Downloads\GorillaTagDiscordRPC-status\GorillaTagDiscordRPC\obj\Debug\GorillaTagDiscordRPC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emily\Downloads\GorillaTagDiscordRPC-status\GorillaTagDiscordRPC\obj\Debug\GorillaTagDiscordRPC.AssemblyInfoInputs.cache
+C:\Users\emily\Downloads\GorillaTagDiscordRPC-status\GorillaTagDiscordRPC\obj\Debug\GorillaTagDiscordRPC.AssemblyInfo.cs
+C:\Users\emily\Downloads\GorillaTagDiscordRPC-status\GorillaTagDiscordRPC\obj\Debug\GorillaTagDiscordRPC.csproj.CoreCompileInputs.cache
+C:\Users\emily\Downloads\GorillaTagDiscordRPC-status\GorillaTagDiscordRPC\obj\Debug\GorillaT.C93C7D1F.Up2Date
+C:\Users\emily\Downloads\GorillaTagDiscordRPC-status\GorillaTagDiscordRPC\obj\Debug\GorillaTagDiscordRPC.dll
+C:\Users\emily\Downloads\GorillaTagDiscordRPC-status\GorillaTagDiscordRPC\obj\Debug\GorillaTagDiscordRPC.pdb
